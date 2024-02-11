@@ -1,0 +1,11 @@
+settings:
+  host: localhost
+  port: 5432
+  database: postgres
+  username: postgres
+  password: postgres
+  
+  select_columns:
+    - 1
+    - 2
+    - 3
